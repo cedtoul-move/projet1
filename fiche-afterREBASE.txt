@@ -1,1 +1,2 @@
 add master after rebase
+Newline
